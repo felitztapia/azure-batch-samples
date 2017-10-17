@@ -1,4 +1,4 @@
-﻿//Copyright (c) Microsoft Corporation
+﻿
 
 using System;
 using Microsoft.Azure.BatchExplorer.PluginInterfaces.AccountPlugin;
